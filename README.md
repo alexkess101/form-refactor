@@ -10,6 +10,16 @@ scale form data, and handle styling in one place.
 - To determine whether or not the credentials are correct I'm using an api I wrote in python a little over a year ago. I'll link the github to that [here](https://github.com/alexkess101/clearSummerAPI). It's sloppy but it works.
 
 
+### Testing
+Clone this repo, `npm start` and go to `localhost:3000`  
+I created an account for anyone to test.  
+  
+`Username:` brandonb@ixn.tech  
+`Password:` ixn4life 
+
+There will be an alert message after you hit submit.  
+The api is hosted using Heroku's free subscription and can take sometimes 30-45 seconds to load.
+
 
 
 ## Available Scripts
