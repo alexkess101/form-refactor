@@ -6,7 +6,7 @@
 - I use classes and components to keep track of form state,
 scale form data, and handle styling in one place.
 
-#### API
+### API
 - To determine whether or not the credentials are correct I'm using an api I wrote in python a little over a year ago. I'll link the github to that [here](https://github.com/alexkess101/clearSummerAPI). It's sloppy but it works.
 
 
