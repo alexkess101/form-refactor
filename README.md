@@ -1,12 +1,12 @@
 
 ## Here's What I got
 
-###What is it?
+### What is it?
 - I built an [application](https://github.com/alexkess101/capstone) that tracks door-to-door sales income. It's old and deprecated, but I thought I would refactor the login portion of the app. That is what this repo is all about! 
 - I use classes and components to keep track of form state,
 scale form data, and handle styling in one place.
 
-####API
+#### API
 - To determine whether or not the credentials are correct I'm using an api I wrote in python a little over a year ago. I'll link the github to that [here](https://github.com/alexkess101/clearSummerAPI). It's sloppy but it works.
 
 
